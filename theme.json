@@ -4,7 +4,11 @@
   "salla_version": "2.0.0",
   "author": "Ali Altoukhi",
   "description": "ثيم ألعاب مخصص لمنصة سلة",
+<<<<<<< HEAD
   "settings": {},
+=======
+  "settings": []
+>>>>>>> 88e9c00e980fd3a11d458cc92b141e0ee126ac0d
   "assets": [],
   "layout": {
     "theme": "templates/index.liquid"
